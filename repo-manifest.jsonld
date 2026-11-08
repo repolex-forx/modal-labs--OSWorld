@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/OSWorld/commit/b138d348256078fa634fc3b73567a7337c793e6b",
       "git:hexsha": "b138d348256078fa634fc3b73567a7337c793e6b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/modal-labs/OSWorld/commit/b1fc026bc46f5aa40c1882a7d119be2196cf5a47",
