@@ -1,0 +1,11 @@
+{
+  "org": "modal-labs",
+  "repo": "OSWorld",
+  "versions": [
+    {
+      "commit": "b138d348256078fa634fc3b73567a7337c793e6b",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:48:45.833946+00:00"
+    }
+  ]
+}
